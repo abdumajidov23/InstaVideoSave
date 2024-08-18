@@ -1,0 +1,27 @@
+{
+  "name": "lesson_24",
+  "version": "1.0.0",
+  "main": "test_25.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch test_25"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "dotenv": "^16.4.5",
+    "feach": "^1.0.0",
+    "holy-quran": "^1.0.4",
+    "lodash": "^4.17.21",
+    "mysql2": "^3.11.0",
+    "nayan-media-downloader": "^2.4.5",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "saperlipobot": "^1.1.0",
+    "telebot": "^1.4.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
